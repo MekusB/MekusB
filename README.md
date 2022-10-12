@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MekusB
 - 👀 I’m interested in Cloud Engineering 
-- 🌱 I’m currently learning Cloud Devops and cloud security. 
+- 🌱 I’m currently learning Cloud & Devops. 
 - 💞️ I’m looking to collaborate on Cloud and Devops  
 - 📫 How to reach me Mekus.go.e@gmail.com
 
